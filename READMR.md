@@ -1,3 +1,3 @@
 # Demo
 
-Somr description!
+Some description!
